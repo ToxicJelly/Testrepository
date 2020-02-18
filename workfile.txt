@@ -10,3 +10,5 @@ stuff
 stuff2
 v 9.0
 mashini
+v 9.0
+pichove
