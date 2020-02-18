@@ -7,16 +7,11 @@ version 6.0
 version 7.0
 version 8.0
 stuff 
-<<<<<<< HEAD
 stuff2
 v 9.0
 mashini
 v 9.0
 pichove
-=======
 v 9.0
 pichove
 mashini
-
-
->>>>>>> 58d6c7fec0e7e3a1611a8d03d16617477855a6d2
