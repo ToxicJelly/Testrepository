@@ -10,3 +10,6 @@ stuff
 mashini
 v 9.0
 pichove
+18
+19
+20
